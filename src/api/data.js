@@ -1,7 +1,7 @@
 import * as api from './api.js';
 
-const host = 'https://library2026-be-vcsg.onrender.com/'
-api.settings.host = 'https://library2026-be-vcsg.onrender.com/';
+const host = 'https://library2026-be-vcsg.onrender.com'
+api.settings.host = 'https://library2026-be-vcsg.onrender.com';
 
 export const login = api.login;
 export const register = api.register;
